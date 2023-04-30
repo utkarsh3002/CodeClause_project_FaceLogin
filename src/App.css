@@ -1,0 +1,29 @@
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+section{
+  
+  width: 40vw;
+  height: 40vh;
+  
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  border-radius: 15px;
+}
+section h1{
+  font-size: 100px;
+  margin: 100px;
+  font-style: oblique;
+}
+section button{
+  margin :40px;
+ 
+}
+
+
+
+
